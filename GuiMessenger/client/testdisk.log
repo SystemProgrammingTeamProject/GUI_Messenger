@@ -1,0 +1,24 @@
+
+
+Fri Dec 16 03:14:02 2022
+Command line: TestDisk
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.15.0-48-generic (#54-Ubuntu SMP Fri Aug 26 13:26:29 UTC 2022) x86_64
+Compiler: GCC 11.2
+ext2fs lib: 1.46.5, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.3
+User is not root!
+Hard disk list
+Disk /dev/sr0 - 132 MB / 126 MiB - 64889 sectors (RO), sector size=2048 - VMware Virtual SATA CDRW Drive, S/N:00000000000000000001, FW:00000001
+
+Partition table type (auto): None
+Media is opened in read-only.
+Disk /dev/sr0 - 132 MB / 126 MiB (RO) - VMware Virtual SATA CDRW Drive
+Partition table type: None
+
+Interface Advanced
+   P ISO                            0      64888      64889 [CDROM]
+     ISO9660 blocksize=2048, 132 MB / 126 MiB
+SIGINT detected! TestDisk has been killed.
